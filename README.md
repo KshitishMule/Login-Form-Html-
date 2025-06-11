@@ -18,8 +18,7 @@ A simple and responsive Login Page built using **HTML**, **CSS**, and **JavaScri
 
 ## 📸 Screenshots
 
-> Include images like:
-> ![Login Page Screenshot](screenshots/login-page.png)
+> Include images like
 
 ## 📁 Project Structure
 
